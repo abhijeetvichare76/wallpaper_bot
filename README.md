@@ -1,12 +1,14 @@
 # wallpaper_bot
-The Bot is created to download all the wallpapers for a seach query from the website "Wallpaper Abyss" at a specified location in the local drive.
+The Bot is created to download all the wallpapers for a search query from the website "Wallpaper Abyss" at a specified location in the local drive.
+
 Dependecies included:
  - Python 3.6 +
 Libraries in Python
 - Selenium
 - tqdm
 
-Chromedriver according to the version of your chrome.
+Use Chromedriver according to the version of your chrome.
+
 link to chromedriver:
 https://chromedriver.chromium.org/downloads
 
